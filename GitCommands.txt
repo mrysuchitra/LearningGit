@@ -1,0 +1,10 @@
+     Git Commands :
+         1. git init
+         2. git status 
+         3. git add[filename] || -A 
+         4. git commit -m "msg"
+         5. git remote add origin repoName
+         6. git push origin master 
+         7. git clone repoName                           
+         8. git add -A
+         9. git pull origin master 
